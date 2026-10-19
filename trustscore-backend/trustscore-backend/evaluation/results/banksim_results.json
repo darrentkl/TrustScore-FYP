@@ -1,0 +1,27 @@
+{
+  "filtered_transactions": 57442,
+  "customers": 403,
+  "category_counts": {
+    "Transport": 49455,
+    "Other": 3168,
+    "Fitness": 192,
+    "Food & Drinks": 3696,
+    "Shopping": 828,
+    "Entertainment": 103
+  },
+  "category_spending_percent": {
+    "Transport": 72.5,
+    "Other": 15.4,
+    "Fitness": 0.9,
+    "Food & Drinks": 7.6,
+    "Shopping": 3.3,
+    "Entertainment": 0.3
+  },
+  "actual_total": 1837376.23,
+  "adjusted_total": 1707589.88,
+  "mild_percent": -3.53,
+  "baseline_percent": -7.06,
+  "strong_percent": -14.13,
+  "balanced_percent": 1.54,
+  "selected_customer_count": 176
+}

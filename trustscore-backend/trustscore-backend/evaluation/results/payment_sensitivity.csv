@@ -1,0 +1,7 @@
+scenario,payment,spending,savings,trust_score,expected_payment,expected_trust
+4 on time,100,70,70,82,100,82
+3 on time + 1 late,87.5,70,70,77,87.5,77
+2 on time + 2 late,75.0,70,70,72,75,72
+2 on time + 1 late + 1 missed,62.5,70,70,67,62.5,67
+1 on time + 1 late + 2 missed,37.5,70,70,57,37.5,57
+4 missed,0,70,70,42,0,42
